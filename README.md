@@ -1,110 +1,110 @@
-CITES Wildlife Trade – Power BI Data Analysis
+C# CITES Wildlife Trade – Power BI Data Analysis
 
-📊 O projektu
+## 📊 About the Project
 
-Tento projekt vznikl v rámci studia datové analytiky v ENGETO Academy.
+This project was created as part of my **Data Analytics studies at ENGETO Academy**.
 
-Pro analýzu jsem využil open data databáze CITES, které obsahují informace o legálně evidovaném mezinárodním obchodu s druhy živočichů a rostlin regulovaných úmluvou CITES.
+For the analysis, I used **open CITES data** containing information about legally recorded international trade in species regulated by the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES).
 
-Cílem projektu bylo zpracovat dostupná data, vytvořit datový model v Power BI a připravit interaktivní report umožňující analyzovat vývoj a strukturu obchodovaných druhů z různých pohledů.
+The main objective was to transform the raw data, build a suitable data model in **Microsoft Power BI**, and create an interactive report for analysing patterns and trends in the recorded wildlife trade.
 
-🎯 Cíl analýzy
+---
 
-Projekt se zaměřuje zejména na:
+## 🎯 Project Objectives
 
-vývoj objemu evidovaného obchodu v čase,
+The analysis focuses on several aspects of international wildlife trade, including:
 
-strukturu obchodovaných druhů,
+- development of recorded trade over time,
+- structure of traded species,
+- comparison of different animal groups,
+- geographical aspects of the trade,
+- types and purposes of trade,
+- identification of major trends and differences in the data.
 
-porovnání jednotlivých skupin živočichů,
+---
 
-geografické souvislosti obchodu,
+## 🛠️ Technologies & Tools
 
-způsoby a účely obchodování,
+- **Microsoft Power BI**
+- **Power Query**
+- **DAX**
+- Data modelling
+- Data transformation and preparation
+- Interactive data visualization
+- Open data
 
-identifikaci hlavních trendů a rozdílů v datech.
+---
 
-🛠 Použité technologie
+## 🔎 Data Preparation & Analysis
 
-Microsoft Power BI
+As part of the project, I:
 
-Power Query
+1. Obtained publicly available CITES data.
+2. Cleaned and transformed the source data using **Power Query**.
+3. Prepared the data structure for analytical purposes.
+4. Created relationships between relevant tables.
+5. Built calculated measures using **DAX**.
+6. Designed interactive dashboards and visualizations.
+7. Analysed the data from temporal, geographical and categorical perspectives.
+8. Prepared the final report for interactive exploration of the data.
 
-DAX
+---
 
-datové modelování
+## 📈 Power BI Report
 
-práce s open data
+The interactive report allows users to analyse the data from different perspectives, including:
 
-interaktivní datová vizualizace
+- time period,
+- species and animal groups,
+- countries,
+- type of trade,
+- purpose of trade,
+- recorded trade quantities.
 
-🔎 Postup zpracování
+Interactive filters and visualizations allow users to explore the data and identify patterns and trends in international wildlife trade.
 
-V rámci projektu jsem:
+---
 
-získal a připravil veřejně dostupná data CITES,
+## 💡 Skills Demonstrated
 
-provedl jejich čištění a transformaci,
+This project allowed me to practically apply and combine knowledge of:
 
-vytvořil datový model vhodný pro následnou analýzu,
+- **Data Analytics**
+- **Power BI**
+- **Power Query**
+- **DAX**
+- Data modelling
+- Data preparation and transformation
+- Interactive dashboard design
+- Data visualization
+- Analytical thinking and interpretation of results
 
-definoval potřebné výpočty a metriky pomocí DAX,
+An important part of the project was not only creating visualizations, but also deciding **how to structure and present the data so that it could be used to identify meaningful patterns and insights**.
 
-vytvořil interaktivní dashboardy a vizualizace,
+---
 
-analyzoval data z časového, geografického a věcného pohledu,
+## 📁 Project Files
 
-připravil výsledný report pro snadnou interpretaci dat.
+The main Power BI project file is:
 
-📈 Power BI report
+`Engeto_PowerBI_Project.pbix`
 
-Výsledný report umožňuje interaktivně analyzovat data podle různých dimenzí, například:
+---
 
-období,
+## 🎓 Project Context
 
-druhů a skupin živočichů,
+This project was created as a practical assignment during my **Data Analytics studies at ENGETO Academy**.
 
-zemí,
+It represents one of my first practical projects focused on transforming raw data into an interactive analytical report using Power BI.
 
-typu obchodu,
+---
 
-účelu obchodování,
+## 👨‍💻 Author
 
-množství evidovaného obchodu.
+**Tomáš Smejkal**
 
-Uživatel může pomocí filtrů a interaktivních prvků procházet data a hledat souvislosti a trendy v mezinárodním obchodu se sledovanými druhy.
+GitHub: [Smeykosh](https://github.com/Smeykosh)
 
-💡 Co jsem si na projektu prakticky ověřil
-
-Projekt mi umožnil prakticky využít a propojit znalosti:
-
-přípravy a transformace dat,
-
-datového modelování,
-
-tvorby vztahů mezi tabulkami,
-
-tvorby výpočtů pomocí DAX,
-
-návrhu interaktivních dashboardů,
-
-datové vizualizace,
-
-interpretace analytických výsledků.
-
-Důležitou součástí projektu nebylo pouze vytvoření vizualizací, ale také rozhodování, jak data strukturovat a jakým způsobem je prezentovat tak, aby z nich bylo možné získat smysluplné informace.
-
-📁 Projekt
-
-Hlavní soubor projektu:
-
-Engeto_PowerBI_Project.pbix
-
-🎓 Kontext projektu
-
-Projekt byl vytvořen v rámci studia Data Analytics – ENGETO Academy jako praktická ukázka práce s Power BI a datovou analýzou.
-
-👨‍💻 Autor
 
 Tomáš Smejkal
 
